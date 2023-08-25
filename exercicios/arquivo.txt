@@ -1,0 +1,2 @@
+Este é um exemplo de escrita em arquivo.
+Python é uma linguagem poderosa!
